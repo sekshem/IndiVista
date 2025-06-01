@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Data sourced from various government and tourism databases
 - Built with modern web technologies for optimal performance
-- Special thanks to the open-source community 
+- Special thanks to the open-source community
